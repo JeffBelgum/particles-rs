@@ -8,7 +8,7 @@ authors = ["Jeff Belgum <jeffbelgum@gmail.com>"]
 
 name = "main"
 
-[dependencies.rust-particles]
+[dependencies.particles]
 
 git = "https://github.com/JeffBelgum/rust-particles"
 
