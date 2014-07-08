@@ -1,0 +1,8 @@
+.DS_store
+.rust
+bin
+build
+lib
+doc
+test
+target

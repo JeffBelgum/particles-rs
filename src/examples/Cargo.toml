@@ -1,0 +1,17 @@
+[package]
+
+name = "rust-particles-examples"
+version = "0.0.1"
+authors = ["Jeff Belgum <jeffbelgum@gmail.com>"]
+
+[[bin]]
+
+name = "main"
+
+[dependencies.hgl]
+
+git = "https://github.com/cmr/hgl-rs"
+
+[dependencies.glfw]
+
+git = "https://github.com/bjz/glfw-rs"
