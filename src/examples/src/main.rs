@@ -84,7 +84,7 @@ fn main() {
     gl::Clear(gl::COLOR_BUFFER_BIT);
 
     vbo.load_data(
-      [ 1.0f32, (frame as f32)/200.0-1.0, 0.0, 1.0, 0.0, 0.0],
+      [ 0.0f32, (frame as f32)/200.0-1.0, 0.0, 1.0, 0.0, 0.0],
     hgl::StaticDraw);
 
     vao.draw_array(Points, 0, 1);

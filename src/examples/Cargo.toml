@@ -1,16 +1,17 @@
 [package]
 
-name = "rust-particles-examples"
+name = "particles-rs-examples"
 version = "0.0.1"
 authors = ["Jeff Belgum <jeffbelgum@gmail.com>"]
 
 [[bin]]
 
-name = "main"
+name = "particles-rs-example"
+path = "src/main.rs"
 
 [dependencies.particles]
 
-git = "https://github.com/JeffBelgum/rust-particles"
+git = "https://github.com/JeffBelgum/particles-rs"
 
 [dependencies.hgl]
 

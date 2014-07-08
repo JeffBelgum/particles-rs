@@ -6,4 +6,5 @@ authors = ["Jeff Belgum <jeffbelgum@gmail.com>"]
 
 [[lib]]
 
-name = "lib"
+name = "particles"
+path = "src/lib.rs"
