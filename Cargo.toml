@@ -6,4 +6,4 @@ authors = ["Jeff Belgum <jeffbelgum@gmail.com>"]
 
 [[lib]]
 
-name = "rust-particles"
+name = "main"
